@@ -5,4 +5,4 @@ this is a events ticket booking website
 
  currently the website is not complete and now i am woriking on it to make it complete soon.
 
- #please open only in laptop/desktop.
+ # please open only in laptop/desktop.
