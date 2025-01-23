@@ -998,7 +998,7 @@ font-size: 18px;
     color:#1b1d1d
 }
 .footer-text3{
-margin-top:-7.2rem;
+margin-top:-2.7rem;
 width:11rem;
 height:10remm;
 }
@@ -1015,3 +1015,44 @@ height:10remm;
 color: rgb(153, 148, 148);
 text-align: justify;
 }
+.footer-email{
+    position: relative;
+    top: 35px;
+    left: 10px;
+   font-size: 15px;
+   display: block;
+    width: 20rem;
+    margin-left: -45px;
+}
+.footer-email1 {
+    position: relative;
+    left: 1px;
+    border: none;
+    border-radius: 35px;
+    padding: 14px 15px;
+    margin-left: 2px;
+    width: 20rem;
+    font-size: 13px;
+}
+.footer-email-button{
+  position: relative;
+  top: -38.9px;
+   left: 234px;
+   padding: 8px 20px;
+    font-size: 17px; 
+    border: none; 
+    color: rgb(11, 8, 8);
+    border-radius: 35px;
+    cursor: pointer;
+}
+
+button{
+  background-color: red; 
+  padding: 0px 29px; 
+}
+
+button:active {
+    background-color: rgb(93, 92, 95); 
+}
+
+
